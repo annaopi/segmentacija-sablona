@@ -1,0 +1,1 @@
+# segmentacija-sablona
